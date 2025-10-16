@@ -44,21 +44,18 @@ Tech Stack
     2️⃣ Install Dependencies
 
         Make sure you have Python 3.9+ installed.
-
         pip install -r requirements.txt
-
         Example requirements.txt:
 
-    streamlit
-    pandas
-    requests
-    beautifulsoup4
-    serpapi
+            streamlit
+            pandas
+            requests
+            beautifulsoup4
+            serpapi
 
     3️⃣ Set Your SerpAPI Key
 
         Swap your key within the code or store it as an environment variable:
-
         export SERPAPI_KEY="your_api_key_here"
 
     4️⃣ Run the App
@@ -90,14 +87,10 @@ Usage Guide
     Step 2: Filter Websites
 
         Use filters:
-
-        ✅ Active websites
-
-        Shopify stores
-
-    ⚡ Load within 5 seconds
-
-    Then click -----> Exclude Sites & Filter → download filtered_websites.csv.
+            Active websites
+            Shopify stores
+            Load within 5 seconds
+            Then click -----> Exclude Sites & Filter → download filtered_websites.csv.
 
     Step 3: Extract Emails
 
