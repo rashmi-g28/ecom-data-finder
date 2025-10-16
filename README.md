@@ -38,7 +38,7 @@ Tech Stack
 
 ⚙️ Installation & Setup
     1️⃣ Clone the Repository
-        git clone https://github.com/your-username/ecom-data-finder.git
+        git clone [https://github.com/your-username/ecom-data-finder.git](https://github.com/rashmi-g28/ecom-data-finder.git)
         cd ecom-data-finder
 
     2️⃣ Install Dependencies
